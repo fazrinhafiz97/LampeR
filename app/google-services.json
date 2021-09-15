@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607971910270",
+    "firebase_url": "https://lamper-app.firebaseio.com",
+    "project_id": "lamper-app",
+    "storage_bucket": "lamper-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607971910270:android:8d887c9f17d952d7",
+        "android_client_info": {
+          "package_name": "com.Fazrin.LampeR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607971910270-nsntreqfdsngcmh4npcjekahiah01mic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Fazrin.LampeR",
+            "certificate_hash": "4357a7e6d9cbf86fe9f1eec86c3cbfa1f811293e"
+          }
+        },
+        {
+          "client_id": "607971910270-o74n2718og8pchk25ridp1c1sa6d7tvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4HJGkAOGwfV8yEaVtWasMKhuK7UVkecg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607971910270-o74n2718og8pchk25ridp1c1sa6d7tvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
